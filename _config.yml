@@ -1,0 +1,14 @@
+layout_spectrum: 0.055151686538010836
+typography_spectrum: 0.27216131892055273
+color:
+  brandStrength: 0.983554505975917
+  lightness: 0.4998621952254325
+  saturation: 0.5194346301723272
+  rhythmicContrast: 0.3601530597079545
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Orbit
